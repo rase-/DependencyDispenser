@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require backbone.js
+//= require raphael.js
 //= require_tree .
